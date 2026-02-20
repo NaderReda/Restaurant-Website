@@ -6,11 +6,10 @@
 *.md diff=markdown
 *.php diff=php
 
-public/* linguist-vendored
-user/assets/* linguist-vendored
+
 
 /public/* linguist-vendored
-/resources/* linguist-vendored
+/resources/views/* linguist-vendored
 /node_modules/* linguist-vendored
 
 /.github export-ignore
