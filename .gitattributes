@@ -9,6 +9,10 @@
 public/* linguist-vendored
 user/assets/* linguist-vendored
 
+/public/* linguist-vendored
+/resources/* linguist-vendored
+/node_modules/* linguist-vendored
+
 /.github export-ignore
 CHANGELOG.md export-ignore
 .styleci.yml export-ignore
